@@ -1,7 +1,7 @@
 # Currency Converter by Waleed Mohamed
 
 def convert_currency(amount, from_currency, to_currency):
-    # Fixed exchange rates (as of example)
+    # Fixed exchange rates
     rates = {
         'USD': 1.0,        # base
         'EUR': 0.85,       # 1 USD = 0.85 EUR
